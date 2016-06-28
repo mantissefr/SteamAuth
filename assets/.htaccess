@@ -1,0 +1,4 @@
+<Files sits_large_noborder.png>
+  order deny,allow
+  allow from all
+</Files>
